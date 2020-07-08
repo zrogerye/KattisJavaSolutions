@@ -27,7 +27,7 @@ import java.util.Scanner;
 public class A0000000000Template {
 	
 	public void run()throws Exception{
-		
+		//Write code here
 	}
 
 	public static void main(String[] args) throws Exception {
